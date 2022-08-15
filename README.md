@@ -1,3 +1,3 @@
 # QtProjets
 
-Contains all my Qt C++ projects.
+Contains my main Qt C++ projects.
